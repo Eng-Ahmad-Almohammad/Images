@@ -10,3 +10,9 @@
 - [x] height: This specifies the height of the image in pixels.
 
 - [x] width: This specifies the width of the image in pixels.
+![img](https://user-images.githubusercontent.com/70091044/92654246-3e583200-f2f8-11ea-9161-f34468ce9e86.PNG)
+## Three Rules for Creating Images
+### There are three rules to remember when you are creating images for your website which are summarized below. 
+### 1- Save images in the right format
+### 2-Save images at the right size
+### 3- Use the correct resolution
