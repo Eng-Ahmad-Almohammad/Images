@@ -16,3 +16,6 @@
 ### 1- Save images in the right format
 ### 2-Save images at the right size
 ### 3- Use the correct resolution
+##  Figure and Figure Caption < figure > < figcaption >
+### Images often come with captions. HTML5 has introduced a new < figure > element to contain images and their caption so that the two are associated. You can have more than one image inside the < figure> element as long as they all share the same caption.
+### The < figcaption> element has been added to HTML5 in order to allow web page authors to add a caption to an image. Before these elements were created there was no way to associate an < img> element with its caption.
