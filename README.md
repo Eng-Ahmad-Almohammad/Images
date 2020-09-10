@@ -19,3 +19,4 @@
 ##  Figure and Figure Caption < figure > < figcaption >
 ### Images often come with captions. HTML5 has introduced a new < figure > element to contain images and their caption so that the two are associated. You can have more than one image inside the < figure> element as long as they all share the same caption.
 ### The < figcaption> element has been added to HTML5 in order to allow web page authors to add a caption to an image. Before these elements were created there was no way to associate an < img> element with its caption.
+![figcaption](https://user-images.githubusercontent.com/70091044/92701706-fae1e000-f358-11ea-83bc-e06d989c7190.PNG)
